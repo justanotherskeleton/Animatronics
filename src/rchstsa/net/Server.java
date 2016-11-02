@@ -1,7 +1,5 @@
 package rchstsa.net;
 
-import java.io.IOException;
-
 import com.esotericsoftware.kryonet.Connection;
 import com.esotericsoftware.kryonet.Listener;
 
